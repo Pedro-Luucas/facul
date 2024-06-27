@@ -1,5 +1,5 @@
-import clientesCRUD
-import servicoCRUD
+import dependencias.clientesCRUD as clientesCRUD
+import dependencias.servicoCRUD as servicoCRUD
 
 
 def gerarRelatorio():

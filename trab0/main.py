@@ -1,6 +1,6 @@
-from clientesCRUD import *
-from servicoCRUD import *
-from relatorio import *
+from dependencias.clientesCRUD import *
+from dependencias.servicoCRUD import *
+from dependencias.relatorio import *
 
 def main():
     while True:
