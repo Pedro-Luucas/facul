@@ -2,6 +2,8 @@ from dependencias.clientesCRUD import *
 from dependencias.servicoCRUD import *
 from dependencias.relatorio import *
 
+#TRABALHO: LARA RECK, PEDRO BORSATO, PEDRO LUCAS
+
 def main():
     while True:
         print('-*'*15)
